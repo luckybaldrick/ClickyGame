@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "England",
+        "clicked": false,
+        "image": "https://vignette.wikia.nocookie.net/logopedia/images/b/b5/England_national_football_team_logo_%282004-2009%29.png/revision/latest?cb=20160513211823.png"
+    },
+    {
+        "id": 2,
+        "name": "France",
+        "clicked": false,
+        "image": "https://i.pinimg.com/originals/87/94/0d/87940d8deffa5f29554ba0c6474bce7d.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Brazil",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Confedera%C3%A7%C3%A3o_Brasileira_de_Futebol_%28escudo%29.svg/1200px-Confedera%C3%A7%C3%A3o_Brasileira_de_Futebol_%28escudo%29.svg.png"
+    },
+    {
+        "id": 4,
+        "name": "Germany",
+        "clicked": false,
+        "image": "https://i.pinimg.com/originals/92/b6/2d/92b62d1b7b60cd336b792ed1cbfb1ee5.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Argentina",
+        "clicked": false,
+        "image": "https://i.pinimg.com/originals/30/bd/02/30bd02b1e68ef1d01500add7b847f969.png"
+    },
+    {
+        "id": 6,
+        "name": "Spain",
+        "clicked": false,
+        "image": "https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Spain_national_football_team_logo_%28one_star%29.svg/revision/latest?cb=20121220235929"
+    },
+    {
+        "id": 7,
+        "name": "Portugal",
+        "clicked": false,
+        "image": "https://i.pinimg.com/originals/5a/93/25/5a932518772c4212677ed86ed9ea416d.png"
+    },
+    {
+        "id": 8,
+        "name": "Uruguay",
+        "clicked": false,
+        "image": "https://ae01.alicdn.com/kf/HTB1WxdGIXXXXXXHXVXXq6xXFXXXI/WORLD-CUP-Uruguay-NATIONAL-FOOTBALL-TEAM-LOGO-LIGHT-FOR-CHEERING-SOCCER-FANS-LUMINOUS-ELECTRONIC-CUSTOMIZED-CAR.jpg_640x640.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Japan",
+        "clicked": false,
+        "image": "https://i.pinimg.com/originals/06/0e/a4/060ea4edf417490df0b7eb2bae31f458.png"
+    },
+    {
+        "id": 10,
+        "name": "Poland",
+        "clicked": false,
+        "image": "https://i.pinimg.com/originals/a4/ec/2e/a4ec2e15a54aea968f02647540f9657e.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Nigeria",
+        "clicked": false,
+        "image": "https://league-mp7static.mlsdigital.net/mp6/2535301_m0w756h504q75v63391_logo-nigeria_30906968.original.large-4-3-800-0-0-400-300.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Russia",
+        "clicked": false,
+        "image": "https://cdn.bleacherreport.net/images/team_logos/328x328/russia.png"
+    }
+]
